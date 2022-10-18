@@ -7,5 +7,6 @@
  */
 int main(void)
 {
+	printf("Dear ogan");
 	return (0);
 }
