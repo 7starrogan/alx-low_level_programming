@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc firstfile.c -E -o c
+export CFILE=0-firsrfile.c ; ./0-preprocessor
